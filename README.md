@@ -44,7 +44,7 @@
 
   ### React
   - React is used for the front end, and it consumes the back end as an API.
-  - [`hello-rails-front-end`](https://github.com/luigirazum/hello-rails-front-end), is the repository that holds the React project.
+  - [`hello-react-front-end`](https://github.com/luigirazum/hello-react-front-end), is the repository that holds the React project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
